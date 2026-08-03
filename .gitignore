@@ -1,4 +1,3 @@
 __pycache__/
 *.pyc
 .env/
-recovery_model.pkl/
